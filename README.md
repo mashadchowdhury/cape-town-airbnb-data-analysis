@@ -36,8 +36,9 @@ The links to each group member's Tableau dashboards can be found here:
 
 https://youtu.be/yCvuurHfHr0
 
-Data used (both raw and processed) can be found in Data/raw/listings.csv and Data/processed/FinalDatasetGroup1025 respectively
-Final Tableau Dashboard can be downloaded and viewed from Tableau_Workbooks/Final_Dashboard.twb
+**Dataset:** Raw dataset can be found in Data/raw/listings.csv and Processed (wrangled) dataset can be found in Data/processed/FinalDatasetGroup1025
+
+**Final Dashboard:** Final Tableau Dashboard can be downloaded and viewed from Tableau_Workbooks/Final_Dashboard.twb
 
 ## References
 
