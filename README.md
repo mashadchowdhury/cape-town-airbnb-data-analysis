@@ -18,7 +18,7 @@ Our dataset was provided by Airbnb, a vacation online rental company where local
 
 ## Team Members
 
-- **Person 1:** My name is Mashad Chowdhury and I am a 2nd year majoring in Math/CS! **I can be contacted at mashad.chowdhury@alumni.ubc.ca**
+- **Person 1:** My name is Mashad Chowdhury and I am a 2nd year majoring in Math/CS! **You can contact me at: mashad.chowdhury@alumni.ubc.ca**
 - **Person 2:** My name is Sanjana Kanchamreddy and I am a second year student majoring in Computer Science!
 - **Person 3:** Hi , My name is Harsimar and I am a second year computer science student!
 
